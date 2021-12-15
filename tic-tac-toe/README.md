@@ -1,5 +1,10 @@
 A very simple app to play the game of tic-tac-toe, utilizing the latest tech and best practice from the React ecosystem. 
 
+## Demo
+
+[tic-tac-toe](http://www.desmat.ca/tic-tac-toe)
+
+
 ## Tech
 - Javascript (ES6)
 - [React](https://reactjs.org/)
