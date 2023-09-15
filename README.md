@@ -1,12 +1,12 @@
 # playground
 
-A collection of small apps and projects to play around with misc. tech and techniques
+A collection of small apps and projects to play around with miscellaneous tech and techniques
 
 ## Pub Space
 
 An app for public spaces (pubs, cafés, etc) to manage and publish bulletin boards, menus, event calendars, maybe even trivia and other pub games.
 
-Demo: [pubspace.vercel.app](https://pubspace.vercel.app)
+Demo: [pubspace.desmat.ca](https://pubspace.desmat.ca)
 
 Repo: [github.com/desmat/pubspace](https://github.com/desmat/pubspace)
 
