@@ -1,6 +1,20 @@
 # playground
 
-A collection of small apps and projects to play around with miscellaneous tech and patterns.
+A collection of hobby apps and personal projects to play around with miscellaneous tech and patterns.
+
+## Workout
+
+A personal trainer web app powered by OpenAI's ChatGPT.
+
+Functionality:
+- AI assistance for exercise instructions and variations
+- Generating personalized workout plans
+- Customized workouts
+- Tracking workout sessions
+
+Demo: [workout.desmat.ca](https://workout.desmat.ca)
+
+Repo: [github.com/desmat/workout](https://github.com/desmat/workout)
 
 ## Pub Space
 
@@ -8,7 +22,7 @@ A tech demo app exploring utilities for public spaces (pubs, cafés, etc.) power
 
 Includes:
 - Bulletin board for announcements, community use, etc.
-- Food and drink menus for both patrons to peruse and preparation instructions for staff.
+- Food and drink menus for both patrons to peruse, and preparation instructions for staff.
 - Trivia games for weekly game nights or for your own entertainment!
 
 Demo: [pubspace.desmat.ca](https://pubspace.desmat.ca)
