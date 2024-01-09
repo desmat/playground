@@ -7,7 +7,7 @@ A collection of hobby apps and personal projects to play around with miscellaneo
 A fitness web app powered by OpenAI's ChatGPT.
 
 ### Functionality:
-- **AI-assisted exercises**: learn how to perform any exercise, see suggested duration and set/repetition numbers, find varations of various difficulty.
+- **AI-assisted exercises**: learn how to perform any exercise, see suggested duration and set/repetition numbers, find variations of various difficulty.
 - **AI-generated personalized workout plans**: answer a few questions and enjoy a workout plan made just for you.
 - **Customized workouts** based on desired exercises and durations.
 - **Performance tracking** with a Strava-like experience for tracking workouts and progress.
