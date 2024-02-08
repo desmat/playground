@@ -1,6 +1,27 @@
 # playground
 
-A collection of hobby apps and personal projects to play around with miscellaneous tech and patterns.
+Experiments, hobby apps and personal projects to play around with miscellaneous tech and patterns.
+
+## Haikudle
+
+A simple daily Haiku puzzle in the spirit of Wordle.
+
+### Functionality
+
+- **AI-generated Haikus** based on any given themes.
+- **AI-generated background** matching the Haiku theme.
+- **Daily puzzles** with drag-and-drop UX.
+
+### Screenshots:
+<p align="center">
+  <img height="400" alt="image" src="https://github.com/desmat/haiku/assets/3298837/d3063391-bc90-47e7-b034-d7fc2814c271">
+  <img height="400" alt="303480583-caa70e55-248b-48bc-a083-4e247c69cfd9" src="https://github.com/desmat/haiku/assets/3298837/c364d8e1-fef5-4505-978f-09f15afe9123">
+  <img height="400" alt="image" src="https://github.com/desmat/haiku/assets/3298837/6bc7ba2b-8552-42da-ac61-98a3d38e9b19">
+</p>
+
+Demo: [haikudle.desmat.ca](https://haikudle.desmat.ca)
+
+Repo: [github.com/desmat/haiku](https://github.com/desmat/haiku)
 
 ## Workout
 
