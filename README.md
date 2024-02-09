@@ -1,4 +1,4 @@
-# playground
+# Playground
 
 Experiments, hobby apps and personal projects to play around with miscellaneous tech and patterns.
 
