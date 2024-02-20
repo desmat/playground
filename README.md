@@ -40,7 +40,7 @@ A fitness web app powered by OpenAI's ChatGPT.
   <img height="300" alt="Screen Shot 3" src="https://github.com/desmat/workout/assets/3298837/1533212c-7238-4fcd-a7a2-360f8e1e3d09">
 </p>
 
-Demo: [workout.desmat.ca](https://workout.desmat.ca)
+Demo: [haikudle.art](https://haikudle.art/)
 
 Repo: [github.com/desmat/workout](https://github.com/desmat/workout)
 
