@@ -21,7 +21,7 @@ AI-powered haiku poetry, puzzles and generative art.
   <img height="400" alt="Screen Shot 2024-03-25 at 3 04 30 PM" src="https://github.com/desmat/haiku/assets/3298837/1f5711f6-44ff-4a5f-bb29-560cb8ad10f7">
 </p>
 
-Demo (Creator experience): [haikugenius.io](https://haikugenius.io)
+Demo (Creator experience): [haikugenius.ai](https://haikugenius.ai/)
 
 Demo (Daily puzzles): [haikudle.art](https://haikudle.art/)
 
