@@ -23,7 +23,7 @@ AI-powered haiku poetry, puzzles and generative art.
 
 Demo (Creator experience): [haikugenius.ai](https://haikugenius.ai/)
 
-Demo (Daily puzzles): [haikudle.art](https://haikudle.art/)
+Demo (Daily puzzles): [haikudle.ai](https://haikudle.ai/)
 
 Repo: [github.com/desmat/haiku](https://github.com/desmat/haiku)
 
