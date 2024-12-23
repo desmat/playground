@@ -59,6 +59,13 @@ Includes:
 - Food and drink menus for both patrons to peruse, and preparation instructions for staff.
 - Trivia games for weekly game nights or for your own entertainment!
 
+### Screenshots:
+
+<p align="center">
+  <img height="300" alt="Screen Shot 1" src="https://github.com/user-attachments/assets/b1e5b7cc-7075-4250-951d-2fca2fec4b56">  
+  <img height="300" alt="Screen Shot 3" src="https://github.com/user-attachments/assets/b7683545-5f92-4bab-874c-178587a4c7ba">
+</p>
+
 Demo: [pubspace.desmat.ca](https://pubspace.desmat.ca)
 
 Repo: [github.com/desmat/pubspace](https://github.com/desmat/pubspace)
