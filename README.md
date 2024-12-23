@@ -19,6 +19,7 @@ AI-powered haiku poetry, puzzles and generative art.
   <img height="400" alt="Screen Shot 2024-04-14 at 2 48 18 PM" src="https://github.com/desmat/haiku/assets/3298837/ce69d37a-cc0f-4bed-9146-c31b35121aa0">
   <img height="400" alt="Screen Shot 2024-04-16 at 10 23 09 AM" src="https://github.com/desmat/haiku/assets/3298837/40cc18b4-0294-4da2-85f2-c661ee33fbb7">
   <img height="400" alt="Screen Shot 2024-03-25 at 3 04 30 PM" src="https://github.com/desmat/haiku/assets/3298837/1f5711f6-44ff-4a5f-bb29-560cb8ad10f7">
+  <img height="400" alt="Screen Shot 2024-03-25 at 3 04 30 PM" src="[https://github.com/desmat/haiku/assets/3298837/1f5711f6-44ff-4a5f-bb29-560cb8ad10f7](https://github.com/user-attachments/assets/e346e854-b234-4506-9ee1-5e8d14ec4c78)">  
 </p>
 
 Demo (Creator experience): [haikugenius.ai](https://haikugenius.ai/)
