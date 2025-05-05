@@ -40,9 +40,9 @@ A fitness web app powered by OpenAI's ChatGPT.
 ### Screenshots:
 
 <p align="center">
-  <img height="300" alt="Screen Shot 1" src="https://github.com/desmat/workout/assets/3298837/99c2f9ff-f724-4198-8b6e-a62f91ee3205">  
-  <img height="300" alt="Screen Shot 2" src="https://github.com/desmat/workout/assets/3298837/d73453a3-0f45-47c5-a673-39f2c299334b">
-  <img height="300" alt="Screen Shot 3" src="https://github.com/desmat/workout/assets/3298837/1533212c-7238-4fcd-a7a2-360f8e1e3d09">
+  <img height="400" alt="Screen Shot 1" src="https://github.com/user-attachments/assets/024aaa6b-349b-4161-bfe4-9c40da99108a">  
+  <img height="400" alt="Screen Shot 3" src="https://github.com/user-attachments/assets/4cc27b23-59ba-40f0-a12d-c9bf162f2560">
+  <img height="400" alt="Screen Shot 3" src="https://github.com/desmat/workout/assets/3298837/1533212c-7238-4fcd-a7a2-360f8e1e3d09"> 
 </p>
 
 Demo: [workout.desmat.ca](https://workout.desmat.ca)
@@ -57,6 +57,13 @@ Includes:
 - Bulletin board for announcements, community use, etc.
 - Food and drink menus for both patrons to peruse, and preparation instructions for staff.
 - Trivia games for weekly game nights or for your own entertainment!
+
+### Screenshots:
+
+<p align="center">
+  <img height="400" alt="Screen Shot 1" src="https://github.com/user-attachments/assets/b1e5b7cc-7075-4250-951d-2fca2fec4b56">  
+  <img height="400" alt="Screen Shot 3" src="https://github.com/user-attachments/assets/b7683545-5f92-4bab-874c-178587a4c7ba">
+</p>
 
 Demo: [pubspace.desmat.ca](https://pubspace.desmat.ca)
 
